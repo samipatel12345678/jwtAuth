@@ -29,12 +29,6 @@ It provides secure user registration, login, and JWT-based authentication for pr
    ```bash
    git clone https://github.com/samipatel12345678/jwtAuth.git
 
-## 📂 Folder Structure
-jwtAuth/
- ┣ 📂 src
- ┃ ┣ 📂 routes
- ┃ ┣ 📂 models
- ┃ ┣ 📂 controllers
- ┃ ┗ server.js
- ┣ package.json
- ┗ README.md
+## 🤝 Contributing
+Contributions are welcome!  
+Fork this repo, make your changes, and submit a pull request.
