@@ -29,6 +29,21 @@ It provides secure user registration, login, and JWT-based authentication for pr
    ```bash
    git clone https://github.com/samipatel12345678/jwtAuth.git
 
+   
+---
+
+### 6. API Endpoints (Important for APIs 🚀)
+- Show how to use your routes.
+
+```md
+## 📡 API Endpoints
+
+### Auth Routes
+- `POST /api/auth/register` → Register user
+- `POST /api/auth/login` → Login user
+- `GET /api/auth/profile` → Get logged-in user (protected)
+
+
 ## 🤝 Contributing
 Contributions are welcome!  
 Fork this repo, make your changes, and submit a pull request.
